@@ -20,6 +20,7 @@ SECRET_KEY = 'k#h!b(i)g#fhectvj5(q&4xr@h3hl8_(1w5^lb(z%_zsr37ype'
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
+SESSION_COOKIE_SECURE = False
 
 
 # Application definition
