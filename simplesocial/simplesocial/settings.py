@@ -19,7 +19,7 @@ SECRET_KEY = 'k#h!b(i)g#fhectvj5(q&4xr@h3hl8_(1w5^lb(z%_zsr37ype'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [vikasm.pythonanywhere.com]
+ALLOWED_HOSTS = ['vikasm.pythonanywhere.com']
 
 
 # Application definition
